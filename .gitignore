@@ -1,0 +1,9 @@
+/target
+/Cargo.lock
+*.db
+*.db-*
+.env
+.DS_Store
+
+# windsurf
+.windsurfrules
